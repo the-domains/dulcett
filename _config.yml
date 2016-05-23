@@ -1,14 +1,14 @@
-layout_spectrum: 0.833645733539015
-typography_spectrum: 0.6431039955932647
+layout_spectrum: 0.25164323044009507
+typography_spectrum: 0.10746116377413273
 color:
-  brandStrength: 0.2668904175516218
-  lightness: 0.9551909090951085
-  saturation: 0.057828884571790695
-  rhythmicContrast: 0.6771998233161867
+  brandStrength: 0.4358710739761591
+  lightness: 0.7171589385252446
+  saturation: 0.29523906181566417
+  rhythmicContrast: 0.1410331658553332
   brandColors:
-    - '#63A69F'
-    - '#F2E1AC'
-    - '#F2836B'
-    - '#F2594B'
-    - '#CD2C24'
+    - '#7D8A2E'
+    - '#C9D787'
+    - '#FFFFFF'
+    - '#FFC0A9'
+    - '#FF8598'
 name: Dulcett
