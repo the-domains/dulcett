@@ -1,14 +1,28 @@
+name: Dulcett
+favicon: null
 layout_spectrum: 0.571013679727912
-typography_spectrum: 0.3618881390430033
+typography_spectrum: 0.63473
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.919667829060927
-  lightness: 0.6139953115489334
-  saturation: 0.3692900522146374
-  rhythmicContrast: 0.25043887994252145
   brandColors:
     - '#1C1D21'
     - '#31353D'
     - '#445878'
     - '#92CDCF'
     - '#EEEFF7'
-name: Dulcett
+  brandStrength: 0.919667829060927
+  lightness: 0.6139953115489334
+  saturation: 0.3692900522146374
+  rhythmicContrast: 0.25043887994252145
+purpose: []
