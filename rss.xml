@@ -4,7 +4,7 @@
         <description><![CDATA[Dulcett]]></description>
         <link>https://thegrid.ai/dulcett/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Jul 2016 20:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Jul 2016 20:34:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dulcett/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/dulcett/b3f326a9-9e2e-4905-9f81-06f3780deee1/index.html</link>
             <guid isPermaLink="false">b3f326a9-9e2e-4905-9f81-06f3780deee1</guid>
             <pubDate>Mon, 23 May 2016 18:43:23 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<p>Dulcett - sweet things happening</p>]]></description>
-            <link>https://thegrid.ai/dulcett/dulcett-sweet-things-happening/index.html</link>
-            <guid isPermaLink="false">11834a23-ddf8-4737-9be3-a7d8cdad2817</guid>
-            <pubDate>Sun, 24 Jul 2016 20:20:41 GMT</pubDate>
         </item>
     </channel>
 </rss>
