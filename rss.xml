@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Dulcett]]></title>
+        <description><![CDATA[Dulcett]]></description>
+        <link>https://thegrid.ai/dulcett/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 24 Jul 2016 20:20:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dulcett/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f6897d77-956f-4224-854d-c9bba6b79eaa.jpg">]]></description>
+            <link>https://thegrid.ai/dulcett/b3f326a9-9e2e-4905-9f81-06f3780deee1/index.html</link>
+            <guid isPermaLink="false">b3f326a9-9e2e-4905-9f81-06f3780deee1</guid>
+            <pubDate>Mon, 23 May 2016 18:43:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Dulcett - sweet things happening</p>]]></description>
+            <link>https://thegrid.ai/dulcett/dulcett-sweet-things-happening/index.html</link>
+            <guid isPermaLink="false">11834a23-ddf8-4737-9be3-a7d8cdad2817</guid>
+            <pubDate>Sun, 24 Jul 2016 20:20:41 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
