@@ -19,6 +19,8 @@ analytics:
   google: null
   facebook: null
   twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d9627939-6bd3-4583-8f7c-c95b932693d5.svg
 name: Dulcett
 cta:
   domain: null
