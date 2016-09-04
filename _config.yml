@@ -27,6 +27,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: About us
+    id: b3f326a9-9e2e-4905-9f81-06f3780deee1
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/adeb8cd9-52e5-46da-8c3a-3e399c907520.jpg
 purpose: []
